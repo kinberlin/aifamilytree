@@ -42,11 +42,11 @@
         </div>
         <div class="u-custom-menu u-nav-container">
           <ul class="u-custom-font u-font-montserrat u-nav u-unstyled u-nav-1">
-            <li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="http://localhost/tutors/Landing.php" style="padding: 10px 20px;">Home</a>
+            <li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="./Landing.php" style="padding: 10px 20px;">Home</a>
             </li>
-            <li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="http://localhost/tutors/About.php" style="padding: 10px 20px;">About</a>
+            <li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="./About.php" style="padding: 10px 20px;">About</a>
             </li>
-            <li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="http://localhost/tutors/Contact.php" style="padding: 10px 20px;">Contact</a>
+            <li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="./Contact.php" style="padding: 10px 20px;">Contact</a>
             </li>
           </ul>
         </div>
@@ -55,11 +55,11 @@
             <div class="u-inner-container-layout u-sidenav-overflow">
               <div class="u-menu-close"></div>
               <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2">
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="http://localhost/tutors/Landing.php">Home</a>
+                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="./Landing.php">Home</a>
                 </li>
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="http://localhost/tutors/About.php">About</a>
+                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="./About.php">About</a>
                 </li>
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="http://localhost/tutors/Contact.php">Contact</a>
+                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="./Contact.php">Contact</a>
                 </li>
               </ul>
             </div>
@@ -72,7 +72,7 @@
   <section class="u-clearfix u-container-align-center-md u-container-align-center-sm u-container-align-center-xs u-image u-section-1" id="sec-e7ee" data-image-width="2008" data-image-height="1205">
     <div class="u-clearfix u-sheet u-valign-middle-sm u-sheet-1">
       <h1 class="u-align-center u-text u-text-body-alt-color u-text-1">About Us</h1>
-      <p class="u-align-center u-text u-text-body-alt-color u-text-default u-text-2">We aim at bringing close to Africans especially Cameroonisns, very usefull softwares widely uses in foreign countries and not accessible in Africa.</p>
+      <p class="u-align-center u-text u-text-body-alt-color u-text-default u-text-2">We aim at bringing close to Africans especially Cameroonians, very usefull softwares widely uses in foreign countries and not accessible in Africa.</p>
       <a href="./index.php" class="u-align-center u-border-none u-btn u-button-style u-palette-3-base u-text-body-alt-color u-btn-1">Start Now</a>
     </div>
   </section>

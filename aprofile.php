@@ -24,7 +24,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-5">
                                 <div class="card shadow-lg border-0 rounded-lg mt-5">
-                                    <div class="card-header"><h3 class="text-center font-weight-light my-4">Mettre a Jour vos Informations</h3></div>
+                                    <div class="card-header"><h3 class="text-center font-weight-light my-4">Update your User Informations</h3></div>
                                     <div class="card-body">
                                         <form method="post">
                                         <?php
@@ -56,12 +56,12 @@
                                             ?>
                                             
                                             <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
-                                                <button type="submit" class="btn btn-primary btn-xs" name="add">Enregistrer</button>;
+                                                <button type="submit" class="btn btn-primary btn-xs" name="add">Save</button>;
                                             </div>
                                         </form>
                                     </div>
                                     <div class="card-footer text-center py-3">
-                                        <div class="small">Noubliez pas de renseigner tout les champs. Ils sont obligatoires.Notez bien qu'il vous est impossible de mettre a jour votre email de login pour des raisons fonctionnels.</div>
+                                        <div class="small">Don't forget to fill in all the entries. They must not be Empty.Note that for functional reasons related with the software, you can't update your login credential.</div>
                                     </div>
                                 </div>
                             </div>

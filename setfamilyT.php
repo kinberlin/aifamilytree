@@ -380,8 +380,8 @@
               corner: 5
             },
             $(go.Shape, {
-              strokeWidth: 1.5,
-              stroke: "#F5F5F5"
+              strokeWidth: 2.0,
+              stroke: "#000000"
             })); // the link shape
 
         // read in the JSON-format data from the "mySavedModel" element
