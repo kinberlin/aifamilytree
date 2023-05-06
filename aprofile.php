@@ -30,7 +30,7 @@
                                         <?php
                                             include_once './database.php';
                                             //$_SESSION["active"] = false;
-                                            $l = 1;//$_SESSION["userId"];
+                                            $l = $_SESSION["userId"];
                                             $database = new Database();
                                             $db = $database->getConnection();
                                             $rec = $db->query("SELECT * FROM user where id=".$l)->fetchAll(PDO::FETCH_OBJ);
